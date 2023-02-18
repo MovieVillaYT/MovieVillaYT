@@ -42,7 +42,7 @@
 <a href="https://www.telegram.dog/MovieVillaOwner"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/telegram.png" /></a>
 <a href="https://www.instagram.com/MovieVillaYT"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
 <a href="https://twitter.com/MovieVillaYT"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/twitter.png" /></a>
-<a href="https://youtube.com/@MovieVillaYT"><img align="left" title="YouTube" alt="YouTube" width="30px" src="assets/youtube .png" /></a>
+<a href="https://youtube.com/@MovieVillaYT"><img align="left" title="YouTube" alt="YouTube" width="30px" src="assets/youtube.png" /></a>
 
 <br>
 <br>
