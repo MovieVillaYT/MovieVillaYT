@@ -37,6 +37,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MovieVillaYT&" alt="MovieVillaYT" /></p>
 
+### DONATE 👇
+
+![DONATE](https://te.legra.ph/file/6f351c6e7578d81aa0292.jpg)
+
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
 <p align="center">
