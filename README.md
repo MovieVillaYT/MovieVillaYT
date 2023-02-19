@@ -39,12 +39,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MovieVillaYT&" alt="MovieVillaYT" /></p>
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
-<a href="https://github.com/MovieVillaYT"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://www.telegram.dog/MovieVillaOwner"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/telegram.png" /></a>
-<a href="https://www.instagram.com/MovieVillaYT"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
-<a href="https://twitter.com/MovieVillaYT"><img align="left" title="Twitter" alt="Twitter" width="30px" src="assets/twitter.png" /></a>
-<a href="https://youtube.com/@MovieVillaYT"><img align="left" title="YouTube" alt="YouTube" width="30px" src="assets/youtube.png" /></a>
-
+</p>
+<p align="center">
+<a href="https://www.instagram.com/MovieVillaYT"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.telegram.dog/MovieVillaYT"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/@MovieVillaYT"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 <br>
 <br>
 <p align="center">
