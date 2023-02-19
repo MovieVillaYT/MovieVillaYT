@@ -39,7 +39,7 @@
 
 ### DONATE 👇
 
-![DONATE](https://te.legra.ph/file/6f351c6e7578d81aa0292.jpg)
+![DONATE](https://telegra.ph/file/ce73268678bc5ff13c588.jpg)
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
